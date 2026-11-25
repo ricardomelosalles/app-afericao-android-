@@ -1,0 +1,8 @@
+{
+  "appId": "br.app.afericao245",
+  "appName": "Controle de Temperaturas",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
